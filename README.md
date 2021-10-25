@@ -3,7 +3,6 @@
 - 🔭 Hoje trabalho com Front-end.
 - 🌱 Estudando React-Native.
 - 📫 Contate-me no email: marcelo.mafradev@gmail.com
-- 💬 Instagram: @marcelomafrabjj
 - 💻️ Desenvolvedor Junior.
 
 <div align="center">
@@ -23,7 +22,5 @@
  
 <div> 
   <a href="https://instagram.com/marcelomafrabjj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/MarceloMafraBJJ_#7560" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "marcelo.mafradev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcelo-mafra-044649221" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
