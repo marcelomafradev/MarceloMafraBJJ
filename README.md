@@ -3,10 +3,9 @@
 - 🔭 Hoje trabalho com Front-end.
 - 🌱 Estudando React-Native.
 - 📫 Contate-me no email: marcelo.mafradev@gmail.com
-- 💻️ Desenvolvedor Junior.
 
 <div align="center">
-  <a href="https://github.com/MarceloMafraBJ">
+  <a href="https://github.com/MarceloMafraBJJ">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloMafraBJJ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloMafraBJJ&layout=compact&langs_count=7&theme=dracula"/>
     
