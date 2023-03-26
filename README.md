@@ -1,7 +1,7 @@
 ### Olá, eu sou Marcelo Mafra!
 
-- 🔭 Hoje trabalho com Front-end.
-- 🌱 Estudando React-Native.
+- 🔭 Full Stack Developer.
+- 🌱 Freelancer.
 - 📫 Contate-me no email: marcelo.mafradev@gmail.com
 
 <div align="center">
