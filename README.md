@@ -2,7 +2,7 @@
 
 - 🔭 Full Stack Developer.
 - 🌱 Freelancer.
-- 📫 Contate-me no email: marcelo.mafradev@gmail.com
+- 📫 Contate-me no email: marcelomafradev@gmail.com
 
 <div align="center">
   <a href="https://github.com/MarceloMafraBJJ">
